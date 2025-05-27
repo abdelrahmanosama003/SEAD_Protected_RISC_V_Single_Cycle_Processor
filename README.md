@@ -32,7 +32,7 @@ SEAD_Protected_RISC_V_Single_Cycle_Processor/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/abdelrahmanosama003/SEAD_Protected_RISC_V_Single_Cycle_Processor
    cd SEAD_Protected_RISC_V_Single_Cycle_Processor
    ```
 
